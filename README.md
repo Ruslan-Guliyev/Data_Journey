@@ -1,2 +1,2 @@
-# data-science-journey
+# data-journey
 My Data Science learning path
